@@ -69,12 +69,6 @@ body {
     border: 1px solid #7d1913;
 }
 
-
-/** END HEADER */
-
-
-/** HOME PAGE **/
-
 #main-content {
     width: 92%;
     margin-bottom: 30px;
@@ -93,7 +87,7 @@ body {
     margin-bottom: 1em;
 }
 
-#chicken-tile, #beef-tile, #sushi-tile {
+#HTML-title, #CSS-title, #JAVA-title {
     width: 100%;
     padding: 20px;
     background-color: #99ed7b;
